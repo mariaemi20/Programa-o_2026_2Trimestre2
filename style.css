@@ -1,0 +1,10 @@
+/* Cor de fundo da página inteira */
+body {
+    background-color: #d37bdf; /* Troque pela cor que desejar */
+}
+
+/* Tamanho e cor do título */
+h1 {
+    font-size: 40px; /* Aumenta o tamanho da fonte */
+    color: #141313;  /* Cor do texto */
+}
