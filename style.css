@@ -15,3 +15,8 @@ body {
 h1 {
     font-size: 3.5rem; /* Vai aumentar proporcionalmente ao body */
 }
+
+figcaption {
+    font-size: 20px; /* Altere o 20px para o tamanho que você achar melhor */
+    margin-top: 8px; /* Opcional: dá um espaço entre a imagem e o texto */
+}
