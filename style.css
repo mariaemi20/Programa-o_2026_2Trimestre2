@@ -8,3 +8,10 @@ h1 {
     font-size: 70px; /* Aumenta o tamanho da fonte */
     color: #0c0202;  
 }
+body {
+    font-size: 110%; /* Aumenta o tamanho padrão do site inteiro */
+}
+
+h1 {
+    font-size: 2.5rem; /* Vai aumentar proporcionalmente ao body */
+}
